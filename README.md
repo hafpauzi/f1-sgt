@@ -8,7 +8,8 @@ So.. I kept going to AI to ask when's the race in Singapore time so i had it cod
 - 📅 Full race weekend schedule
 
 
-##Link to embed my notion f1 sgt page:
+## Link to embed my notion f1 sgt page:
+
 https://hafpauzi.github.io/f1-sgt/ 
 
 
