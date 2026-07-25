@@ -1,4 +1,4 @@
-# f1-sgt
+# 🏁 F1-sgt
 So.. I kept going to AI to ask when's the race in Singapore time so i had it coded for specifically my notion pages. If you're a Singaporean, feel free to embed my widget onto your notion!! 
 
 ## Features 
@@ -6,6 +6,7 @@ So.. I kept going to AI to ask when's the race in Singapore time so i had it cod
 - ⏳ Live countdown
 - 🏁 Next F1 session tracking
 - 📅 Full race weekend schedule
+
 
 ##Link to embed my notion f1 sgt page:
 https://hafpauzi.github.io/f1-sgt/ 
