@@ -91,6 +91,8 @@ async function loadRace() {
   }
   else {
 
+  countdownTarget = null;
+
   document.getElementById(
     "sessionName"
   ).innerText =
@@ -189,4 +191,9 @@ loadRace();
 setInterval(
   updateCountdown,
   1000
+);
+
+setInterval(loadRace, 
+            300000
+  
 );
