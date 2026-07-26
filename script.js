@@ -89,7 +89,23 @@ async function loadRace() {
         }
       );
   }
+  else {
 
+  document.getElementById(
+    "sessionName"
+  ).innerText =
+    "Weekend Complete";
+
+  document.getElementById(
+    "sessionTime"
+  ).innerText =
+    "Waiting for next GP";
+
+  document.getElementById(
+    "countdown"
+  ).innerText =
+    "🏁";
+}
   const schedule =
     document.getElementById(
       "schedule"
