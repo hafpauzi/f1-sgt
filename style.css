@@ -134,7 +134,7 @@ body.light-mode{
   color: #1d1d1f;
 }
 
-body.light-mode.card {
+body.light-mode .card {
   background: white;
   border: 1px solid #d0d7de;
 }
@@ -146,4 +146,16 @@ body.light-mode .header span,
 body.light-mode .schedule-time,
 body.light-mode .count-label {
 color: #555;
+}
+
+body.light-mode h1,
+body.light-mode .race-name,
+body.light-mode .session-time,
+body.light-mode .schedule-item {
+  color: #1d1d1f;
+}
+body.light-mode .session,
+body.light-mode .countdown {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
 }
