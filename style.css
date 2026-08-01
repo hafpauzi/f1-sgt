@@ -129,21 +129,21 @@ body {
 }
 
 
-.light-mode{
-  background: #f5f5f7
-  color:1d1d1f;
+body.light-mode{
+  background: #f5f5f7;
+  color: #1d1d1f;
 }
 
-.light-mode.card{
+body.light-mode.card {
   background: white;
   border: 1px solid #d0d7de;
 }
-.light-mode .divider {
+body.light-mode .divider {
   background: #ddd;
 }
 
-.light-mode .header span,
-.light-mode .schedule-time,
-.light-mode .count-label {
+body.light-mode .header span,
+body.light-mode .schedule-time,
+body.light-mode .count-label {
 color: #555;
 }
