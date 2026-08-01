@@ -157,6 +157,14 @@ body.light-mode .schedule-item {
 }
 body.light-mode .session,
 body.light-mode .countdown {
-  background: #f8f8f8;
+  background: #f8f9fa;
   border: 1px solid #ddd;
+}
+
+body.light-mode .section-title {
+  color: #e10600;
+}
+
+body.light-mode .schedule-item {
+  border-bottom: 1px solid #e5e5e5;
 }
