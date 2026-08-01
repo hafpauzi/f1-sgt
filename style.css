@@ -135,7 +135,8 @@ body.light-mode{
 }
 
 body.light-mode .card {
-  background: hotpink !important;
+  background: #ffffff;
+  border: 1px solid #d0d7de;
 }
 
 body.light-mode .divider {
