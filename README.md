@@ -6,6 +6,7 @@ So.. I kept going to AI to ask when's the race in Singapore time so i had it cod
 - ⏳ Live countdown
 - 🏁 Next F1 session tracking
 - 📅 Full race weekend schedule
+- added Light and Dark mode (New!)
 
 
 ## Link to embed my notion F1 sgt page:
